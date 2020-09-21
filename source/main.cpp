@@ -6,6 +6,6 @@
 
 auto main(int argc, char* argv[]) -> int {
 	
-	std::cout << Brackets::isBracketsAreCorrect("{()()}") << std::endl;
+	std::cout << Algorithms::isBracketsAreCorrect("{()()}") << std::endl;
 	return 0;
 }
